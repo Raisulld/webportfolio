@@ -1,0 +1,52 @@
+h1{
+    font-size: 50px;;
+}
+body{
+    margin:0px;
+    font-family: 'Abel', sans-serif;
+}
+.name-highlight{
+    color:burlywood;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+}   
+.half-width img{
+    width:100%;
+}
+.top-banner{
+     background-image:url("images/top-banner.png");
+     background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration:none;
+    color:orange;
+    background-color:blueviolet;
+    font-weight: 700;
+    padding:10px 20px;
+}
+h2{
+    font-size: 40px;
+}
+.dream-area{
+
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position:right;
+}
+.borderr{
+    border: solid 1px black;
+    
+    box-shadow:5px 5px 5px 5px grey;
+
+}
+footer p{
+    text-align:center;
+
+}
